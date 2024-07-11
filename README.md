@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 - **University** - 경북대학교 글로벌SW융합 복수전공 (2020.03. ~ 2024.08.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **Highscool** - 제주중앙여자고등학교 (2016.03 ~ 2019. 02.)
 
-- 📫 How to reach me: ...
-- rladbswl8668@naver.com
+- 📫 How to reach me: rladbswl8668@naver.com
 
 - 
 <!-- 이거는 주석
