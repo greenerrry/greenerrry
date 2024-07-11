@@ -23,19 +23,20 @@
 - **University** - 경북대학교 글로벌SW융합 복수전공 (2020.03. ~ 2024.08.) 
 - **Highscool** - 제주중앙여자고등학교 (2016.03 ~ 2019. 02.)
 
+
+## 💻 Study
+
+
+<img src="http://mazandi.herokuapp.com/api?handle=dbswl8668&theme=warm"/> [![Yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenerrry)](https://github.com/greenerrry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenerrry)](https://github.com/greenerrry/github-readme-stats)  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+<!-- 주석
+-->
+
+
 ## 📫 Contact
 <div>
 <a href="https://greenerrry.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:dbswl8668@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dbswl8668@gmail.com"/></a>
 </div>
-
-## 💻 Study
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenerrry)](https://github.com/greenerrry/github-readme-stats)
-  <img src="http://mazandi.herokuapp.com/api?handle=dbswl8668&theme=warm"/>
-  [![Yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenerrry)](https://github.com/greenerrry/github-readme-stats)
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-- 
-<!-- <img src="http://mazandi.herokuapp.com/api?handle={dbswl8668}&theme=warm"/>
--->
