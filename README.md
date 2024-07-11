@@ -8,15 +8,16 @@
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
-
 ## 🏆 Certification
 - **정보처리기사** 
 - **오픽**
+  
   
 ## 👨🏻‍💻 Careers
 
 - **CJ remote Internship** Data scientist (2022.09. ~ 2022.12.)
 - **체코관광청** 행사 개최 인턴 (2023.03. ~ 2023.07.)
+
 
 ## 📚 Education
 
