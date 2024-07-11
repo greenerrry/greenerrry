@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 Careers
 
 - **CJ remote Internship** Data scientist (2023.08. ~ 2023.12.)
-- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
+
 
 ## 📚 Education
 
