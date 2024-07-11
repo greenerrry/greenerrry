@@ -32,6 +32,9 @@
 
 - 📫 How to reach me: rladbswl8668@naver.com
 
+## Study
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenerrry)](https://github.com/greenerrry/github-readme-stats)
+  <img src="http://mazandi.herokuapp.com/api?handle={dbswl8668}&theme=warm"/>
 - 
 <!-- 이거는 주석
 -->
