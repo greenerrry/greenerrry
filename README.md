@@ -1,11 +1,12 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Yoonji&fontAlign=70&rotate=13&fontAlignY=25&desc=      )
 
 
+
 ## 👋 Hi, I'm Yoonji
-- 💬 [**꾸준한 배움**](#)을 통해 [**지속 성장**](#)하는 **프론트엔드 개발자 김윤지**입니다.  
-[**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
+- **2000.03.25**
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
+
 
 ## 🏆 Certification
 - **정보처리기사** 
@@ -34,6 +35,10 @@
 <!-- 주석
 -->
 
+## 😋 What I Like
+- 🍥 막창
+- 🥣 곱창전골
+- 🐷 돼지국밥
 
 ## 📫 Contact
 <div>
