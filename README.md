@@ -43,6 +43,6 @@
 
 ## 📫 Contact
 <div>
-<a href="https://greenerrry.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/greenerrry/greenerrry"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:dbswl8668@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dbswl8668@gmail.com"/></a>
 </div>
