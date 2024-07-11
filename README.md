@@ -4,6 +4,7 @@
 
 ## 👋 Hi, I'm Yoonji
 - **2000.03.25**
+- **ESFJ**
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
